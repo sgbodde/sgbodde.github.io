@@ -2724,14 +2724,14 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background: #fff;
+			background: #d2d494;
 		}
 
 		.wrapper.style2 {
-			background-color: #fff;
+			background-color: #d2d494;
 			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
 			background-position: top left,						bottom left,					top left;
-			background-size: 100% 6em,						100% 6em,						auto;
+			background-size: 100% 2em,						100% 6em,						auto;
 			background-repeat: no-repeat,						no-repeat,						repeat;
 		}
 
@@ -2745,7 +2745,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style3 .button {
-				background: #fff;
+				background: #4b30b8;
 				color: #474747;
 			}
 
