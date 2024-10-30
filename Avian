@@ -1,0 +1,266 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Avian Science and Other Bird Nerdery</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/pre.css" />
+		
+		<!-- uses google-code-prettify for syntax highlighting 
+			 see https://github.com/google/code-prettify for more info -->
+		<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js">
+		</script>
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<div id="header">
+			
+					<!-- Logo -->
+						<h1><a href="index.html" id="logo">Scholarly Presentations and Publications</em></a></h1>
+			
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="industry.html">Industry Experience</a></li>
+								
+									<li>
+								<a href="#">Academia</a>
+								<ul>
+									<li><a href="teaching.html">Teaching/Lecturing</a></li>
+									<li><a href="research.html">Scholarly Research</a></li>
+									<li><a href="publications.html">Presentations & Publications</a></li>
+									<li>
+										<!--<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Lorem dolor</a></li>
+											<li><a href="#">Phasellus magna</a></li>
+											<li><a href="#">Magna phasellus</a></li>
+											<li><a href="#">Etiam nisl</a></li>
+											<li><a href="#">Veroeros feugiat</a></li>
+										</ul>-->
+									</li>
+									<li><a href="education.html">Education</a></li>
+								</ul>
+							</li>
+							
+							<!--<li><a href="right-sidebar.html">Right Sidebar</a></li>
+							<li><a href="two-sidebar.html">Two Sidebar</a></li>
+							<li><a href="no-sidebar.html">No Sidebar</a></li>-->
+							<li>
+								<a href="#">Other Activities</a>
+								<ul>
+									
+									<li><a href="#">Coming soon</a></li>
+									<!--<li><a href="#">Aviculture</a></li>-->
+									<!--<li><a href="#">Avian Science & Aviculture</a></li>
+									
+									<li><a href="#">Outdoor Recreation</a></li>
+									<li><a href="#">Science Outreach</a></li>
+									<li>
+										<a href="#">Languages</a>
+										<ul>
+											<li><a href="#">Nederlands</a></li>
+											<li><a href="#">Español</a></li>
+											<!--<li><a href="#">Phasellus magna</a></li>
+											<li><a href="#">Magna phasellus</a></li>
+											<li><a href="#">Etiam nisl</a></li>
+											<li><a href="#">Veroeros feugiat</a></li>-->
+										</ul>
+									</li>
+									
+							</ul>
+						</nav>
+			
+				</div>
+
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div class="row gtr-200">
+							<div class="col-10 col-12-narrower">
+								<div id="content">
+			
+									<!-- Content -->
+			
+										<article>
+											<header>
+												<h2>Presentations</h2>
+									<!-- 				<p><h3>Links to Stuff</h3>
+								</p>
+											</header>
+			
+											<span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+			
+											<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
+											Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
+											Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
+											consequat etiam lorem ipsum dolor sit amet nullam.</p>
+			
+											<h3>And Yet Another Subheading</h3> -->
+											
+<p><li>S.G. Bodde, J. Kiang, and J. McKittrick. “Soaring to New Heights in Natural Materials." APS March Meeting, 23 March 2011, Dallas, Texas, U.S.A.</li></p>
+												
+<p><li>S.G. Bodde, J. Kiang, and J. McKittrick. “Feathers in Flexure: Why Buckling up is for the Birds." 140th TMS Annual Meeting and Exhibition, 3 March 2011, San Diego, California, U.S.A.</li></p>
+
+<p><li>S.G. Bodde, E. Evdokimenko, and M.I. Lopez F. “Biological Materials: A Materials Science Approach: En el Aire – La Estructura y Las Propiedades Mecánicos de las Plumas" . Seminar at Centro de Nanociencias y Nanotecnología, Universidad Nacional Autónoma de México, 16 June 2010, Ensenada, B.C, México (invited).</li></p>
+
+<p><li>S.G. Bodde, M.A. Meyers, and J. McKittrick. “What it Takes to be Light as a Feather." 139th TMS Annual Meeting and Exhibition, 16 February 2010, Seattle, Washington, U.S.A.</li></p>
+
+<p><li>S.G. Bodde, Y. Seki, M.A. Meyers, and J. McKittrick. “Beak and Feather as Tooth and Nail." 3rd ICMOBT Meeting, 14 December 2009, Clearwater Beach, Florida, U.S.A.</li></p>
+
+<p><li>S.G. Bodde, Y. Seki, and M.A. Meyers. “Mechanics and Structure of Avian Appendages." 126th American Ornithological Union Annual Meeting, 8 August 2008, Portland, Oregon, U.S.A.</li></p>
+
+<p><li>S.G. Bodde, Y. Seki, and M.A. Meyers. “Characterization of Sandwich Structures in Avian Materials." 137th TMS Annual Meeting and Exhibition, 10 March 2008, New Orleans, Louisiana, U.S.A.</li></p>
+
+<p><li>S.G. Bodde, Y. Seki, M.A. Meyers. “Structural and Mechanical Properties of Avian Materials." 136th TMS Annual Meeting and Exhibition, 26 February 2007, Orlando, Florida, U.S.A.</li></p>
+		
+			
+											<!-- <p>Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
+											quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
+											Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
+											fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
+											Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
+											Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.</p> -->
+										</article>
+			
+								</div>
+							</div>
+							<div class="col-2 col-12-narrower">
+								<div id="sidebar">
+			
+									<!-- Sidebar -->
+			
+										<section>
+											<h3>Publications</h3>
+											<p>
+												<ul class="links">
+									<li><a href="https://www.researchgate.net/profile/Sara-G-Bodde-2">ResearchGate</a></li>
+									<li><a href="https://scholar.google.com/citations?user=kikNHJIAAAAJ&hl=en">Google Scholar</a></li>
+											</p>
+									<!--		<footer>
+												<a href="#" class="button">Continue Reading</a>
+											</footer>
+										</section>
+			
+							<!--			<section>
+											<h3>Another Subheading</h3>
+											<ul class="links">
+												<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
+												<li><a href="#">Ornare in hendrerit in lectus</a></li>
+												<li><a href="#">Semper mod quis eget mi dolore</a></li>
+												<li><a href="#">Consequat etiam lorem phasellus</a></li>
+												<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
+												<li><a href="#">Semper mod quisturpis nisi</a></li>
+											</ul>
+											<footer>
+												<a href="#" class="button">More Random Links</a>
+											</footer>
+										</section>
+		-->
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<!-- <div id="footer">
+					<div class="container">
+						<div class="row">
+							<section class="col-3 col-6-narrower col-12-mobilep">
+								<h3>Links to Stuff</h3>
+								<ul class="links">
+									<li><a href="#">Mattis et quis rutrum</a></li>
+									<li><a href="#">Suspendisse amet varius</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum accumsan dolor</a></li>
+									<li><a href="#">Mattis rutrum accumsan</a></li>
+									<li><a href="#">Suspendisse varius nibh</a></li>
+									<li><a href="#">Sed et dapibus mattis</a></li>
+								</ul>
+							</section>
+							<section class="col-3 col-6-narrower col-12-mobilep">
+								<h3>More Links to Stuff</h3>
+								<ul class="links">
+									<li><a href="#">Duis neque nisi dapibus</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum accumsan sed</a></li>
+									<li><a href="#">Mattis et sed accumsan</a></li>
+									<li><a href="#">Duis neque nisi sed</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum amet varius</a></li>
+								</ul>
+							</section>
+							<section class="col-6 col-12-narrower">
+								<h3>Get In Touch</h3>
+								<form>
+									<div class="row gtr-50">
+										<div class="col-6 col-12-mobilep">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="col-6 col-12-mobilep">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="col-12">
+											<textarea name="message" id="message" placeholder="Message" rows="5"></textarea>
+										</div>
+										<div class="col-12">
+											<ul class="actions">
+												<li><input type="submit" class="button alt" value="Send Message" /></li>
+											</ul>
+										</div>
+									</div>
+								</form>
+							</section>
+						</div>
+					</div>
+			
+					<!-- Icons -->
+						<!--	<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon brands fa-google-plus-g"><span class="label">Google+</span></a></li> 
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.linkedin.com/in/sgbodde/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						</ul>
+			
+					<!-- Copyright -->
+						<!--<div class="copyright">
+							<ul class="menu">
+								<li>&copy; 2024. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>-->
+			
+				</div>
+			
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src='assets/js/process_md_blocks.js'></script>
+			<script src="assets/js/showdown.min.js"></script>
+			<script>
+				var converter = new showdown.Converter();
+				converter.setOption('tables', 'on');
+				converter.setOption('strikethrough', 'on');
+				converter.setOption('emoji', 'on');
+				elements = document.getElementsByClassName('markdown');
+				for(var i=0; i<elements.length; i++)
+					elements[i].innerHTML = converter.makeHtml(elements[i].innerHTML.replace(/&lt;/g, "xwxw").replace(/&gt;/g, "pqpq")).replace(/xwxw/g, "&lt;").replace(/pqpq/g, "&gt;");
+			</script>
+	</body>
+</html>
